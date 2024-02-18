@@ -39,5 +39,5 @@ npm run build
 
 Technologies used in the project:
 
-*   React.vite
+*   React+vite
 
