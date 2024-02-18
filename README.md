@@ -1,8 +1,7 @@
-<h1 align="center" id="title">TTS Playground</h1>
+<h1 align="center" id="title">First React App</h1>
 
 <img src="Screenshot 2023-12-17 004516.png" widht="100px" height="200px">
 
-<p align="center"><img src="https://socialify.git.ci/siiddhantt/tts-playground/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <h2>🚀 Demo</h2>
 
@@ -24,7 +23,7 @@ npm install
 <p>2. Run</p>
 
 ```
-npm start
+npm run dev
 ```
 
 <p>3. Build</p>
@@ -39,5 +38,5 @@ npm run build
 
 Technologies used in the project:
 
-*   React.js
+*   React.vite
 
