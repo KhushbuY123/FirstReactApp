@@ -1,9 +1,10 @@
-<h1 align="center" id="title">First React App</h1>
+<h1 id="title">First React App</h1>
 
 <img src="Screenshot 2023-12-17 004516.png" widht="100px" height="200px">
 
 
 <h2>🚀 Demo</h2>
+https://khushbuy123.github.io/FirstReactApp/
 
 
   
